@@ -21,7 +21,7 @@ According to the Center for Disease Control
 
 We can take individual responsibility for this by monitoring our own body fat.
 
---- .class #id 
+---  
 
 ## Assessing Your Risk
 
