@@ -48,7 +48,8 @@ $$ BMI = {weight \over height^2}*703$$
 
 where the 703 is to adjust for units.  The following plot gives the normal weight range for a given height in inches.  A 5 foot 9 in person should be between 125 and 169 pounds as indicated by the lines.  
 
-![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1.png) 
+![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1.png) 
+
 
     
 
